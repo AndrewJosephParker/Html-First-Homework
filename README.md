@@ -83,7 +83,6 @@ This homework is graded based on the following criteria:
   * Application's CSS file is properly commented.
 
 ### Deployment: 32%
-
 * Application deployed at live URL.
 
 * Application loads with no errors.
