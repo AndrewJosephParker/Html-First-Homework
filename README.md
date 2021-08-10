@@ -1,4 +1,5 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# 01 Code Refactor - Homework Assignment 1
+This code refactor assignment takes an existing HTML and CSS file that we are supposed to refactor. The refactored code has been optimized for efficiency and ensures web accessiblity. It ensures that people with disabilities or socio-economic restrictions have access to the site.
 
 ## Your Task
 
