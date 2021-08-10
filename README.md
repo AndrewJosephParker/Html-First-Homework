@@ -23,3 +23,8 @@ THEN I find a concise, descriptive title
 
 https://andrewjosephparker.github.io/Html-First-Homework/
 
+## Screenshots
+
+![2021-08-09 (6)](https://user-images.githubusercontent.com/83850651/128805234-66c72a4e-2361-41b1-b0db-ce28813797c5.png)
+![2021-08-09 (5)](https://user-images.githubusercontent.com/83850651/128805239-be71722e-ca5a-4f35-9c02-9d8958d77b73.png)
+![2021-08-09 (7)](https://user-images.githubusercontent.com/83850651/128805246-a8a26587-2e04-4ba4-b25c-f51a7be49eed.png)
